@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-05-14T16:58:16.219452+00:00",
+  "updated_at": "2026-05-14T22:07:35.443653+00:00",
   "data_referencia": "2026-05-14",
   "airport_icao": "SBEG",
   "airport_name": "Manaus",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBEG",
+    "sg_aerodromo_iata": "MAO",
+    "descricao": "EDUARDO GOMES - MANAUS - AM - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
