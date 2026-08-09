@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-09T15:26:40.577365+00:00",
+  "updated_at": "2026-08-09T21:27:35.162160+00:00",
   "data_referencia": "2026-08-09",
   "airport_icao": "SBSG",
   "airport_name": "Natal",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSG",
-    "sg_aerodromo_iata": "NAT",
-    "descricao": "GOVERNADOR ALUIZIO ALVES - SÃO GONÇALO DO AMARANTE - RN - BRASIL"
+    "sg_aerodromo_icao": "SBJP",
+    "sg_aerodromo_iata": "JPA",
+    "descricao": "PRESIDENTE CASTRO PINTO - JOÃO PESSOA - PB - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
