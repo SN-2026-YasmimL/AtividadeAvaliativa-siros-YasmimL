@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-08-13T15:55:45.247619+00:00",
+  "updated_at": "2026-08-13T21:41:06.420417+00:00",
   "data_referencia": "2026-08-13",
   "airport_icao": "SBBH",
   "airport_name": "Belo Horizonte / Pampulha",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBBH",
-    "sg_aerodromo_iata": "PLU",
-    "descricao": "PAMPULHA - CARLOS DRUMMOND DE ANDRADE - BELO HORIZONTE - MG - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
