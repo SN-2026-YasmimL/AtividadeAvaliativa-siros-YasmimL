@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-17T15:21:00.806338+00:00",
+  "updated_at": "2026-08-17T21:21:38.813053+00:00",
   "data_referencia": "2026-08-17",
   "airport_icao": "SBJV",
   "airport_name": "Joinville",
   "airport_info": {
-    "sg_aerodromo_icao": "SBJV",
-    "sg_aerodromo_iata": "JOI",
-    "descricao": "LAURO CARNEIRO DE LOYOLA - JOINVILLE - SC - BRASIL"
+    "sg_aerodromo_icao": "SBGR",
+    "sg_aerodromo_iata": "GRU",
+    "descricao": "GUARULHOS - GOVERNADOR ANDRÉ FRANCO MONTORO - GUARULHOS - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
