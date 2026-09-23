@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-09-23T14:02:56.652437+00:00",
+  "updated_at": "2026-09-23T18:48:25.572428+00:00",
   "data_referencia": "2026-09-23",
   "airport_icao": "SBLO",
   "airport_name": "Londrina",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBLO",
+    "sg_aerodromo_iata": "LDB",
+    "descricao": "GOVERNADOR JOSÉ RICHA - LONDRINA - PR - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
