@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-01T15:42:49.573671+00:00",
+  "updated_at": "2026-11-02T00:10:58.728391+00:00",
   "data_referencia": "2026-11-01",
   "airport_icao": "SBCY",
   "airport_name": "Cuiaba",
   "airport_info": {
-    "sg_aerodromo_icao": "SBRB",
-    "sg_aerodromo_iata": "RBR",
-    "descricao": "PLÁCIDO DE CASTRO - RIO BRANCO - AC - BRASIL"
+    "sg_aerodromo_icao": "SBCY",
+    "sg_aerodromo_iata": "CGB",
+    "descricao": "MARECHAL RONDON - VÁRZEA GRANDE - MT - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
